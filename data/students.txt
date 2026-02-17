@@ -1,0 +1,142 @@
+Ribeiro Loureiro|Daniel|2|13|1
+Lushcheko|Julien|0|13|0
+Tanir|Arold Noelle|1|13|0
+Yurdakul|Ahmad|0|13|0
+Soloviova|Bo|0|13|0
+Bauer|Talal|2|13|1
+Ramirez|Dias|0|13|0
+Kouam|Kim|3|3|1
+Prochazka|Dogukan|1|13|0
+Tsafack|Amanual|1|13|0
+Leunkeu Nsaguet|Kemal|0|13|0
+Karakich|Lukas|1|13|0
+Kluge|Lennard|0|15|0
+Suwirman|Ayoub|3|3|1
+Reckerzügl|Danijel|3|3|1
+Tajzada|Auriand Dester|2|3|1
+Hamdani|Mohamed Yassine|0|13|0
+Akram|Wassim|0|13|0
+Mahfoudh|Jasmin|1|13|0
+Pham|Ena-Sophie|1|13|0
+Ong|Florian|2|3|1
+Damjanov|Ronja|0|4|0
+Jabbarli|Marko|0|13|0
+EL Moustaine|Pariya|2|3|1
+Nguyen|Hamza|2|13|1
+Rahimnazari|Dilara|0|13|0
+Ginola|Muhammad Ilzam|3|3|1
+Ahrens|Yama|2|13|1
+Nguyen|Hakan|1|13|0
+Löbel|Junior|0|15|0
+Nguyen|Hieu|1|13|0
+Sanati|Chi Thien|2|13|1
+Baikenov|Truc Quynh|0|013|0
+Emmerich|Oliver|2|13|1
+Dongmo Nguemo|Raffael|0|013|0
+Herkert|Mirasgher|0|13|0
+Nguyen|Gia Nam Khanh|1|13|0
+Ucal|Alicia|1|13|0
+Nguyen|Gia Linh|3|3|1
+Nakkach|Jamaal|2|13|1
+Musinkov|James Immanuel|2|13|1
+Behrens|Suayb|0|013|0
+Laubach|Khaled|0|13|0
+Khisagul|Leon|3|3|1
+Schäfer|Charlotte|1|13|0
+Ngouateu Kemma|Hoang Long|3|3|1
+Nguyen|Hewi|1|13|0
+Tchaha Wandji|Armin|0|13|0
+Nguyen|Hicham|3|3|1
+Kewel|Lili|2|13|1
+Vu|Ali|1|13|0
+Ringhoffer|Dania|0|13|0
+Saada|Dana|1|13|1
+Kouambeng Ngouana|Khaled|0|13|0
+Haj Ahmad|Mohameden|3|3|1
+Scojic|Brice|0|0|0
+Basaran|Thierry Joel Jonathan|1|13|0
+Tayoura|Arnold Jordy|0|13|0
+Kacmaz|Manh Trung|1|13|0
+Recke|David|1|13|0
+Niazi|Ghazal|2|3|1
+Kapp|Mael|1|13|0
+Trash|Amirhossein|1|13|1
+Budel|Sebastian|1|13|0
+Hoxha|Max Pascal|0|13|0
+Schaubert|Burak Naci|3|3|1
+Hoang|Mina|0|13|0
+Al Khalili|Viorel|0|13|0
+Edou|Paula|0|13|0
+Nandha|Isabella|0|13|0
+Navoyan|Hong Quan|0|13|0
+Ghassemi|Nguyen|0|13|0
+Tchouankam Ngansop|Anas|0|4|0
+Solak|Bobakrine|0|13|0
+Gassam|Nicholas Wilson|0|013|0
+Nørgaard|Fred Jason|1|13|1
+Adane Kassa|Yasser Ahmed Mohamed|0|13|0
+Hashmi|Mohamad|0|13|0
+Tchouami Yaho|Andreia|0|13|0
+Khodaveisi|Leon|3|3|1
+Kenanov|Lorina Chesnelle|3|3|1
+Reis Klapper|Danielle Naomie|2|13|1
+Al Sheikh|Victor-Andrei|0|013|0
+Hamed|Mohamed|0|13|0
+Werke|Alexander|1|13|0
+Djoko|Robin Laser|0|013|0
+Balci|Tiza Tonjock|0|13|0
+Alshaib|Veli Ihsan|0|13|0
+Bestea|Shane|0|013|0
+Cebeci|Saulyegul|0|013|0
+Ballweg|Thomas Billy Jeff|0|013|0
+Karimpur|Luan|1|13|0
+Winkler|Aksel Svetlanov|3|3|1
+Zebua|Abdulrahman|0|13|0
+Raslan|Debrice|2|3|1
+Suharta|Bastian|2|3|1
+Moyou Tinfang|Jan|3|3|1
+Cherkaouitanjy|Sanjeev|0|2|0
+Peter|Erich|1|13|0
+Ahmed Jegune|Yasmine|0|3|0
+Eid|Paul Arnaud|0|13|0
+Elbaqri|Oussama|0|2|0
+Kenhago Ndongo|Loic joel|0|13|0
+Hosseini|Mhdmowaffak|0|13|0
+Sousa Kleinmann|Berekt|0|3|0
+Wolfgramm|Aksel|2|3|1
+Tchinda Djimeli|Ansoumane|3|3|1
+Tran|Amjad|0|0|0
+Lekoumbou Wati|Kevin|0|4|0
+Weber|Alexandra|0|013|0
+Gölz|Moritz Christian|0|13|0
+Beck|Taha|0|013|0
+Gilung|Musa|3|3|1
+Le|Khaled|2|3|1
+Do|Rico|0|013|0
+Feske|Nicole|3|3|1
+Beyene|Servan|0|2|0
+Magsino|Jonilda|2|3|1
+Chiu|Ryan Xavier Fatizame|0|15|0
+Zahraoui|Abel João|3|3|1
+Schmidt|Bryan Austin|0|4|0
+Forsack|Nicole|0|013|0
+Kontic|Lars|1|13|0
+Johnson|Maria|0|013|0
+Fachreza Sianipar|Oguzhan|0|013|0
+Khuder|Leodil Aime|0|3|0
+Bender|Steve Rodrigue|0|013|0
+Abuhamdan|Youssef|0|013|0
+Benhire|Song Long Khanh|0|013|0
+Aydin|Tuan Dung|0|013|0
+Batista da Silva Lima|Thanh Cong|0|13|0
+Bouassila|Sebastian|0|013|0
+Akyüz|Vitalina|0|013|0
+El Kadi|Patrick|0|013|0
+Pamiri|Evgeny|0|013|0
+Yalahow|Ahmedou|0|3|0
+Ectewechny|Philipp|0|15|0
+Näumann|Idriss|0|13|0
+Kaltenschnee|Majd|0|013|0
+Ashour|Van Anh|0|3|0
+Doumbouya|Raed|0|0|0
+Örtlek|Fabian|0|13|0
