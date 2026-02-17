@@ -1,0 +1,1 @@
+# SkiSchool-Management-System-C-Qt-
